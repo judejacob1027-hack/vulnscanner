@@ -1,4 +1,26 @@
-git clone https://github.com/YOUR_USERNAME/vulnerability-scanner.git
-cd vulncanner
-ls
+## How to Use
+
+**Step 1 – Clone**
+
+```bash
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
+```
+
+**Step 2 – Install dependency**
+
+```bash
+pip install requests
+```
+
+**Step 3 – Run**
+
+```bash
 python3 scanner.py
+```
+
+**Step 4 – Enter the target IP/domain when prompted.**
+
+**Step 5 – View the scan results and vulnerability report.**
+
+> Use only on systems you own or have permission to test.
