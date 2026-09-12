@@ -1,5 +1,4 @@
 git clone https://github.com/YOUR_USERNAME/vulnerability-scanner.git
-cd vulnerability-scanner
-sudo apt install nmap python3 python3-pip
+cd vulncanner
 pip3 install requests
 python3 scanner.py
