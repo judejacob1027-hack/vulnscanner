@@ -1,4 +1,4 @@
-# Vulnerability Scanner
+# VulnScanner
 
 An advanced network security assessment tool designed to help identify potential security weaknesses in authorized systems and networks.
 
